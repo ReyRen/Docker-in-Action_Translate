@@ -1,7 +1,7 @@
 # Docker-in-Action_Translate
 《Docker in Action 2nd》译
 
-[](https://raw.githubusercontent.com/ReyRen/Docker-in-Action_Translate/main/cover-images/cover1.png)
+[](http://www.reyren.cn:88/Docker-In-Action/cover-images/cover1.png)
 
 # 初衷
 
